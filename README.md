@@ -12,6 +12,12 @@ An AI-powered video analysis tool that extracts keyframes, processes audio, and 
 - 📱 **User-Friendly Interface**: Built with Streamlit for easy interaction
 - 💾 **Offline Support**: Works without internet for core features
 - 🔄 **Format Support**: Handles MP4, MOV, AVI, and MKV video formats
+- Video upload via UI  
+- Extracts frames at configurable intervals  
+- Keyframe detection  
+- Audio extraction & transcription  
+- Structured summary generation  
+- Runs fully locally (frontend) + Gemini API
 
 ## 🚀 Getting Started
 
